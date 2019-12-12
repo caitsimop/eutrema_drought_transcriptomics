@@ -1,0 +1,38 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0009414,"response to water deprivation",1.390%, 5.354, 4.838,2.509,-2.9206,0.719,0.000,9414,0
+GO:0009415,"response to water",1.416%,null,null,2.517,-2.9206,0.728,0.744,9414,1
+GO:0001101,"response to acid chemical",5.011%,null,null,3.065,-1.9907,0.753,0.580,9414,1
+GO:0097305,"response to alcohol",2.469%,null,null,2.758,-2.2126,0.732,0.641,9414,1
+GO:0009269,"response to desiccation",0.073%,null,null,1.255,-2.0314,0.767,0.730,9414,1
+GO:0009737,"response to abscisic acid",2.443%,null,null,2.754,-2.2212,0.723,0.712,9414,1
+GO:0010035,"response to inorganic substance",3.699%,null,null,2.933,-2.2491,0.758,0.482,9414,1
+GO:0044242,"cellular lipid catabolic process",0.315%,-5.120, 1.031,1.869,-2.8370,0.606,0.000,44242,0
+GO:0006787,"porphyrin-containing compound catabolic process",0.095%,null,null,1.362,-1.4015,0.694,0.985,44242,1
+GO:0016054,"organic acid catabolic process",0.514%,null,null,2.079,-2.2809,0.585,0.934,44242,1
+GO:0015996,"chlorophyll catabolic process",0.078%,null,null,1.279,-1.4301,0.609,0.545,44242,1
+GO:0046395,"carboxylic acid catabolic process",0.514%,null,null,2.079,-2.2809,0.577,0.716,44242,1
+GO:0072329,"monocarboxylic acid catabolic process",0.229%,null,null,1.732,-2.2212,0.591,0.924,44242,1
+GO:0019395,"fatty acid oxidation",0.164%,null,null,1.591,-2.0314,0.653,0.950,44242,1
+GO:0046149,"pigment catabolic process",0.082%,null,null,1.301,-1.4301,0.800,0.674,44242,1
+GO:0006635,"fatty acid beta-oxidation",0.147%,null,null,1.544,-2.4149,0.547,0.889,44242,1
+GO:0034440,"lipid oxidation",0.211%,null,null,1.699,-2.3456,0.704,0.558,44242,1
+GO:0033015,"tetrapyrrole catabolic process",0.095%,null,null,1.362,-1.4015,0.704,0.778,44242,1
+GO:0016042,"lipid catabolic process",1.032%,null,null,2.380,-2.5592,0.606,0.682,44242,1
+GO:0009062,"fatty acid catabolic process",0.164%,null,null,1.591,-2.2491,0.568,0.938,44242,1
+GO:0051179,"localization",12.352%,-3.528,-2.968,3.457,-2.4890,0.952,0.000,51179,0
+GO:0071705,"nitrogen compound transport",1.515%,-2.363, 5.938,2.547,-2.9206,0.705,0.000,71705,0
+GO:0016192,"vesicle-mediated transport",1.964%,null,null,2.659,-2.9206,0.698,0.468,71705,1
+GO:0048193,"Golgi vesicle transport",0.557%,null,null,2.114,-1.9188,0.729,0.405,71705,1
+GO:0007033,"vacuole organization",0.186%, 4.754,-5.443,1.643,-1.5053,0.919,0.036,7033,0
+GO:0006470,"protein dephosphorylation",0.811%,-0.002,-5.384,2.276,-2.6130,0.889,0.078,6470,0
+GO:0007264,"small GTPase mediated signal transduction",0.211%, 7.005, 1.331,1.699,-2.0121,0.791,0.192,7264,0
+GO:0009628,"response to abiotic stimulus",7.946%, 6.217, 3.589,3.265,-2.2126,0.815,0.294,9628,0
+GO:0043562,"cellular response to nitrogen levels",0.117%, 5.630, 0.928,1.447,-1.4301,0.826,0.326,43562,0
+GO:0015833,"peptide transport",0.177%,-1.496, 6.819,1.623,-2.9206,0.726,0.361,15833,0
+GO:0042886,"amide transport",0.220%,null,null,1.716,-2.9206,0.730,0.663,15833,1
+GO:0015031,"protein transport",3.116%,null,null,2.859,-1.9518,0.645,0.556,15833,1
+GO:0071702,"organic substance transport",5.585%,null,null,3.112,-1.5154,0.667,0.748,15833,1
+GO:0051234,"establishment of localization",11.817%,null,null,3.438,-2.9206,0.649,0.855,15833,1
+GO:0006810,"transport",11.649%,null,null,3.431,-2.9206,0.644,0.670,15833,1
+GO:0008104,"protein localization",3.448%,null,null,2.903,-1.4815,0.658,0.865,15833,1
+GO:0045184,"establishment of protein localization",3.172%,null,null,2.867,-2.0042,0.653,0.940,15833,1
